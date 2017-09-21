@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var snap = require("../src/snap.js");
+
+snap.main();

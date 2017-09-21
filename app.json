@@ -1,0 +1,25 @@
+{
+  "name": "snap",
+  "description": "Website Snap Service powered by Node.js, SlimerJS and PhantomJS",
+  "website": "https://snapri.herokuapp.com/",
+  "repository": "https://github.com/sauharddobhal/snap",
+  "logo": "https://github.com/sauharddobhal/snap/raw/master/misc/snap.jpg",
+  "keywords": [
+      "screenshot",
+      "thumbnail",
+      "slimerjs",
+      "slimer",
+      "phantomjs",
+      "phantom",
+      "picture",
+      "image",
+      "website",
+      "screen",
+      "site",
+      "page",
+      "scr",
+      "service",
+      "server"
+  ],
+  "image": "heroku/nodejs"
+}
